@@ -55,7 +55,7 @@
     "lint-staged": "^13.0.3",
     "np": "^9.2.0",
     "rimraf": "^3.0.0",
-    "rollup": "^1.22.0",
+    "rollup": "^3.29.5",
     "webpack-merge": "^4.1.5"
   },
   "prettier": "@open-wc/prettier-config",
